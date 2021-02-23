@@ -72,6 +72,7 @@ tr ' ' '\12' < returnedfile | sort | uniq -c | sort -nr
 - Redirect the output to result.txt
 ```
 tr ' ' '\12' < returnedfile | sort | uniq -c | sort -nr > result.txt
+
 ```
  
 
